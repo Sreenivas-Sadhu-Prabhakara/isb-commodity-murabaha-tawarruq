@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-commodity-murabaha-tawarruq
+description: "BIAN Service Domain: Commodity Murabaha Tawarruq (Process pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Sale Based Financing"
+  isb/asset-type: "Tawarruq Transaction"
+  isb/control-record: "Tawarruq Transaction Procedure"
